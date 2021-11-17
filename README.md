@@ -86,11 +86,11 @@ I had done within graphics in the past. therefore I have created this handbook t
            to power on the arduino connect the USB to the computer
            <br>
            <br>
-           <em>step 6: 
+           <em>step 6:<em/>
              download the correct Arduino IDE in order for your system to work
              <br> 
              <br>
-             <em>step 7<em/>
+             <em>step 7: </em>
                press the upload button on the top left-hand corner of the screen to upload the programme.
 <br>
                <br>
