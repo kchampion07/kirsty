@@ -49,6 +49,8 @@ I had done within graphics in the past. therefore I have created this handbook t
   <br>
   <em>LED Sequential Control step-by-step<em/>
     <br>
+    --------------------------------------
+    <br>
     <br>
     You will need:
 1 x Arduino Uno
