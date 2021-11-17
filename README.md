@@ -30,7 +30,9 @@ I had done within graphics in the past. therefore I have created this handbook t
   is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions.
   <br>
   <br>
-  ![img_2_2000_touchUp_compress](https://user-images.githubusercontent.com/94471736/142247226-bb61968d-e2be-46ce-9c2c-63384c656b23.jpeg)
+
+    ![IMG_1686](https://user-images.githubusercontent.com/94471736/142248360-41432818-ae35-4174-904a-29ecd54005f7.jpg)
+![Screenshot 2021-11-17 171441](https://user-images.githubusercontent.com/94471736/142249166-c5c6a878-f4be-4e4b-bb71-e3b629d6be33.png)
   <br>
   <br>
   Liǎn is heavily inspired by the Chinese face changing opera art 变脸 (biàn liǎn) and online avatars. 变脸 translates to face changing. The performer changes their face to signify a shift in emotion. This performance parallels our online behaviours; we wear many faces online and are able to change them at any moment.
@@ -53,5 +55,5 @@ I had done within graphics in the past. therefore I have created this handbook t
 4 x jumper wires 
 3 x different coloured LEDs 
 
-    ![IMG_1686](https://user-images.githubusercontent.com/94471736/142248360-41432818-ae35-4174-904a-29ecd54005f7.jpg)
-![Screenshot 2021-11-17 171441](https://user-images.githubusercontent.com/94471736/142249166-c5c6a878-f4be-4e4b-bb71-e3b629d6be33.png)
+    
+   
