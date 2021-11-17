@@ -31,8 +31,9 @@ I had done within graphics in the past. therefore I have created this handbook t
   <br>
   <br>
 
-    ![IMG_1686](https://user-images.githubusercontent.com/94471736/142248360-41432818-ae35-4174-904a-29ecd54005f7.jpg)
-![Screenshot 2021-11-17 171441](https://user-images.githubusercontent.com/94471736/142249166-c5c6a878-f4be-4e4b-bb71-e3b629d6be33.png)
+    
+   <img width="214" alt="1" src="https://user-images.githubusercontent.com/94471736/142250326-47e925f5-e54b-4b22-a803-554139a10f6e.png">
+<img width="214" alt="2" src="https://user-images.githubusercontent.com/94471736/142250330-be0ffff7-a7ad-436a-9441-4c8a83782870.png">
   <br>
   <br>
   Liǎn is heavily inspired by the Chinese face changing opera art 变脸 (biàn liǎn) and online avatars. 变脸 translates to face changing. The performer changes their face to signify a shift in emotion. This performance parallels our online behaviours; we wear many faces online and are able to change them at any moment.
