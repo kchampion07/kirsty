@@ -7,6 +7,8 @@ I had done within graphics in the past. therefore I have created this handbook t
 <br>
 <strong> KEY TERMS 
   <br>
+  --------------
+  <br>
   <br>
   <em>readme.file</em>
   <br>
