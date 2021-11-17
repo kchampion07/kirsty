@@ -51,8 +51,13 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
     You will need:
 1 x Arduino Uno
+    <br>
 1 x Breadboard 
-1 x USB cable 
+    <br>
+1 x USB cable
+    <br>
 3 x 220 ohm resistors 
-4 x jumper wires 
+    <br>
+4 x jumper wires
+    <br>
 3 x different coloured LEDs 
