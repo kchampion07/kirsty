@@ -66,25 +66,32 @@ I had done within graphics in the past. therefore I have created this handbook t
 3 x different coloured LEDs 
 <br>
     <br>
-   <em> step 1: <em/> The first step centres around finding common ground. use a jumper wire to connect the Ground pin on the arduino to the negative rail on the breadboard. This allows all the LEDs to use the ground pin on the arduino.
+   <em> step 1: <em/> 
+     The first step centres around finding common ground. use a jumper wire to connect the Ground pin on the arduino to the negative rail on the breadboard. This allows all the LEDs to use the ground pin on the arduino.
      <br>
      <br>
-     <em> step 2:<em/> now insert the resistors onto the bread board making sure one leg is connected to the negative rail.
+     <em> step 2:<em/> 
+       now insert the resistors onto the bread board making sure one leg is connected to the negative rail.
        <br>
        <br>
-       <em> step 3: <em/> inserting the LEDs. the longer of the two legs on the LED will be the positive one. connect the negative to the horizontal rail where the resistor is connected. connect the positive leg to an adjacent rail. Repeat for all three LEDs.
+       <em> step 3: <em/> 
+         inserting the LEDs. the longer of the two legs on the LED will be the positive one. connect the negative to the horizontal rail where the resistor is connected. connect the positive leg to an adjacent rail. Repeat for all three LEDs.
          <br>
          <br>
-         <em> step 4: <em/> to complete the circuit use three junmp wires to connect ports 13, 12 and 11. connect the positive LED on the right to output 13, the middle LED to 12 and the last to 11.
+         <em> step 4: <em/> 
+           to complete the circuit use three junmp wires to connect ports 13, 12 and 11. connect the positive LED on the right to output 13, the middle LED to 12 and the last to 11.
            <br>
            <br>
-         <em> step 5: <em/> to power on the arduino connect the USB to the computer
+         <em> step 5: <em/> 
+           to power on the arduino connect the USB to the computer
            <br>
            <br>
-           <em>step 6: download the correct Arduino IDE in order for your system to work
+           <em>step 6: 
+             download the correct Arduino IDE in order for your system to work
              <br> 
              <br>
-             <em>step 7<em/>press the upload button on the top left-hand corner of the screen to upload the programme.
+             <em>step 7<em/>
+               press the upload button on the top left-hand corner of the screen to upload the programme.
 <br>
                <br>
                the LED lights on your breadboard should now be on and working :)
