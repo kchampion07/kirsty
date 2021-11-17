@@ -66,4 +66,5 @@ I had done within graphics in the past. therefore I have created this handbook t
 3 x different coloured LEDs 
 <br>
     <br>
+   <em> step 1: <em/> 
     
