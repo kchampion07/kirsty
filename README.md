@@ -30,7 +30,7 @@ I had done within graphics in the past. therefore I have created this handbook t
   is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions.
   <br>
   <br>
-  
+  ![img_2_2000_touchUp_compress](https://user-images.githubusercontent.com/94471736/142247226-bb61968d-e2be-46ce-9c2c-63384c656b23.jpeg)
   <br>
   <br>
   Liǎn is heavily inspired by the Chinese face changing opera art 变脸 (biàn liǎn) and online avatars. 变脸 translates to face changing. The performer changes their face to signify a shift in emotion. This performance parallels our online behaviours; we wear many faces online and are able to change them at any moment.
