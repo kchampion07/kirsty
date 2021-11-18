@@ -58,6 +58,8 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
     <br>
     You will need:
+    <br>
+    <br>
 1 x Arduino Uno
     <br>
 1 x Breadboard 
