@@ -20,7 +20,7 @@ I had done within graphics in the past. therefore I have created this handbook t
   <em>physical computing</em>
     <br>
     <br>
-    physical computing means interacting with real-world objects by programming them from a computer. some examples include an automatic doors and voice recognition. physical commuting is a huge part of our everday lives, it has huge creative potential.
+    physical computing means interacting with real-world objects by programming them from a computer. some examples include automatic doors and voice recognition. physical commuting is a huge part of our everday lives, it has huge creative potential.
   <br>
   <br>
   <em>examples of physical computing</em>
