@@ -75,9 +75,12 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
 4 x jumper wires
     <br>
-    
+    <img width="266" alt="Screenshot 2021-11-21 at 11 59 50" src="https://user-images.githubusercontent.com/94471736/142760984-5c360a43-0bc7-4c9f-b237-e8b92f590a32.png">
+    <br>
+    <br>
 3 x different coloured LEDs 
 <br>
+    
     <br>
    <em> step 1: <em/> 
      The first step centres around finding common ground. use a jumper wire to connect the Ground pin on the arduino to the negative rail on the breadboard. This allows all the LEDs to use the ground pin on the arduino.
