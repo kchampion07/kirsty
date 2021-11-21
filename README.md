@@ -56,7 +56,7 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
     <br>
 1 x Arduino Uno
-    <img width="526" alt="Screenshot 2021-11-21 at 11 54 14" src="https://user-images.githubusercontent.com/94471736/142760738-5490c262-6203-46f3-8296-8e722c321dde.png">
+ 
 <br>
     <br>
 1 x Breadboard 
