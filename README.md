@@ -65,8 +65,12 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
 1 x USB cable
     <br>
+    <img width="252" alt="Screenshot 2021-11-21 at 12 00 42" src="https://user-images.githubusercontent.com/94471736/142760949-d94b3a93-270e-4a5a-9b01-43207853e52c.png">
+    <br>
+    <br>
 3 x 220 ohm resistors 
     <br>
+    
 4 x jumper wires
     <br>
 3 x different coloured LEDs 
