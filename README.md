@@ -60,6 +60,9 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
 1 x Breadboard 
     <br>
+    <img width="347" alt="Screenshot 2021-11-21 at 11 59 21" src="https://user-images.githubusercontent.com/94471736/142760911-72b3d34d-a107-42c5-b915-d697b8df982f.png">
+<br>
+    <br>
 1 x USB cable
     <br>
 3 x 220 ohm resistors 
