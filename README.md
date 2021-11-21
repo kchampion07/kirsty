@@ -80,7 +80,8 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
 3 x different coloured LEDs 
 <br>
-    
+    <img width="267" alt="Screenshot 2021-11-21 at 12 00 27" src="https://user-images.githubusercontent.com/94471736/142761001-1537ecbc-0ad9-4473-85e0-313643b28485.png">
+    <br>
     <br>
    <em> step 1: <em/> 
      The first step centres around finding common ground. use a jumper wire to connect the Ground pin on the arduino to the negative rail on the breadboard. This allows all the LEDs to use the ground pin on the arduino.
