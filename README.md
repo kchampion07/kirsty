@@ -32,8 +32,6 @@ I had done within graphics in the past. therefore I have created this handbook t
   is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions.
   <br>
   <br>
-
-    
    <img width="214" alt="1" src="https://user-images.githubusercontent.com/94471736/142250326-47e925f5-e54b-4b22-a803-554139a10f6e.png">
 <img width="214" alt="2" src="https://user-images.githubusercontent.com/94471736/142250330-be0ffff7-a7ad-436a-9441-4c8a83782870.png">
    <br>
@@ -56,7 +54,8 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
     <br>
 1 x Arduino Uno
- 
+    <br>
+ <img width="263" alt="Screenshot 2021-11-21 at 11 56 54" src="https://user-images.githubusercontent.com/94471736/142760803-6dfd465a-33cd-4201-8b25-d9d1bdbb75ae.png">
 <br>
     <br>
 1 x Breadboard 
