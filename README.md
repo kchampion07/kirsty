@@ -114,7 +114,7 @@ I had done within graphics in the past. therefore I have created this handbook t
                the LED lights on your breadboard should now be on and working :)
              <br>
              <br>
-          
+          <img width="444" alt="Screenshot 2021-11-21 at 12 10 47" src="https://user-images.githubusercontent.com/94471736/142761171-691cc9c9-2232-44de-b998-2b4ba6f39433.png">
              
              
          
