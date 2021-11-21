@@ -70,7 +70,7 @@ I had done within graphics in the past. therefore I have created this handbook t
     <br>
 3 x 220 ohm resistors 
     <br>
-    <img width="508" alt="Screenshot 2021-11-21 at 11 53 20" src="https://user-images.githubusercontent.com/94471736/142760973-0b2508ae-741b-4ffe-8d61-77896ebadbfd.png">
+<img width="156" alt="Screenshot 2021-11-21 at 12 07 28" src="https://user-images.githubusercontent.com/94471736/142761077-19d8cc24-000d-4ea6-8ae1-ff5e975ef1b8.png">
 <br>
     <br>
 4 x jumper wires
